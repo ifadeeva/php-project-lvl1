@@ -1,0 +1,11 @@
+{
+    "name": "fadeeva/php-project-lvl1",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Irina Fadeeva",
+            "email": "if7129@gmail.com"
+        }
+    ],
+    "require": {}
+}
