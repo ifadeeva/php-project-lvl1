@@ -1,13 +1,22 @@
 {
     "name": "fadeeva/php-project-lvl1",
-    "license": "MIT",
     "authors": [
         {
             "name": "Irina Fadeeva",
             "email": "if7129@gmail.com"
         }
     ],
+    "description": "hexlet php-package",
+    "license": "MIT",
     "require": {
         "wp-cli/php-cli-tools": "^0.11.11"
+    },
+    "bin": [
+        "bin/brain-games"
+    ],
+    "autoload": {
+        "files": [
+            "src/Cli.php"
+	]
     }
 }
