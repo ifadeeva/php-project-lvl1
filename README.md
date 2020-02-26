@@ -1,2 +1,3 @@
 # php-project-lvl1
-![](https://github.com/ifadeeva/php-project-lvl1/workflows/php.yml/badge.svg)
+
+![PHP_CodeSniffer](https://github.com/ifadeeva/php-project-lvl1/workflows/PHP_CodeSniffer/badge.svg)
