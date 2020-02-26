@@ -23,6 +23,6 @@
         "squizlabs/php_codesniffer": "^3.5"
     },
     "scripts": {
-        "phpcs": "phpcs"
+        "phpcs": "vendor/bin/phpcs"
     }
 }
